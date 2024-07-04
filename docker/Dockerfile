@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.13.0b2-slim
 
 LABEL maintainer="Qiming Sun <osirpt.sun@gmail.com>"
 
